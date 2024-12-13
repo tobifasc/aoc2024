@@ -1,3 +1,3 @@
 # adventofcode2024
 
-My first time trying clojure
+Finishing some challanges with python because learning clojure turned out to be a slow process.
